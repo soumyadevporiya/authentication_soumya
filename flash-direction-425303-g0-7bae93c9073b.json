@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flash-direction-425303-g0",
+  "private_key_id": "7bae93c9073b0b761d2d52848a8c3f342d0d17f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCO2YQENeURG4o2\ngqhIBHMcq+OakdOC1bqPpVjhtnci3K5YuAyg50w0i+vZS0yBuy8om4aMWRVtPz49\nxdGC8Hv6/p/8JvmSyZYyX2OEY4Leb4xGI0xrpyIATsjB47GlOdDzG2O2YEQWpObo\nwbjxEe5dG9EXbXa6mh5fyhLy9nMeW/4o9U79++wnwW9a+OZzyrOt4CDytldyxesh\nRaFptk5p4qMzfJI3mxpxqrlNPmRJwpuCPRlZ6rdEZTxYRXv8XYUP7QmnPqb2kOTJ\nzU3Jv8LNESwryBuZhh5hqKdCEsYtbSx77N7LV9ysnxI0uLr48N5rPoMFPdFpacYy\nJZNJiKetAgMBAAECggEAAeNINkGiFKV/bTRkorydHgiVgIu9A4vtV1jXjlzgQS+X\nOQ8hnf5aIipxN2HVeBqjRzWa9xlCsIfQu9wOTN0xvkG4/b0w68Qw16fHQ5u727jj\nETA5O9KT6/SE/OIt84fw+RPoSVcHWO2pkYzlDUzv3TIkNsHyR9Zuk7rl08+QlBrQ\nRDhfs6ayBzBQPmQ+RmRvSRo+XW8D6wDO7QYdhKt4E6TtFB+SQSIMLeCMDwC729To\nXFHtv8XH+NO6cM0fqEC/lVH1LgsoopV4nNAi6npq39/2bDEl2wne0QAUMyHPJc9b\n5DtxzamhhMlmrUJlstnRmwS679lsUHgDIlcR90gtLwKBgQDHnOfKl0GqAxUn2s1g\nTEK4tDkFvll+kQ66zpHdnRDxta+MiJ8YYpO50C+XsAORKFFuJtyAdSO4ScT6o3+J\ncuhZyBan2luUfsTb3Jbprp4jNn7PM6syVC9jewuV5mXABoTl77vQRLGj+xHKVpLc\nbo+7ntegZw6+kKnLQ+h9t9l9YwKBgQC3M8B0G4iMXhdqrEYqXfG3Eek8lP4wGe09\nyrll3oCqyqmjWRBhiMx3Fl/PMTpVZumvwfm+yU8n01BmrJilyEQuXSqA5Q3KGQ/9\nQYbABsGTFmXwROIbUPKDT7FfvfuBhUD6YTvGlIgE2A9Q9CWG6sMiBNjBSGOyfZ2L\nZMOZlpubrwKBgEd6nFYji9QBfpXi+CA/rrTNdI3l984my4uBZSJimCq10MMWOUJW\nKmgjcKd01BIqyd4T9GnbiIr5f5vw6D6j8ygTSmmY+6pVKtFAUJoleWNKpGY2Llu7\nYazR5vgqpMz6iKR+EFcoAiSiR2CZV8WvobCh1L0Pqmv7CZJMIvjB2RPZAoGBAJrj\n7VX9JWCP+LpetuABF2kRgqGO0q32badtq3weN6iuuef6WCguUbhpuU1isJAd93t6\nw91zNDJWrcZxLIoVnNeaO2JIxnTU5bjYWsYlsCncqQkQJB62PKOakDuDU435DKvj\n43cMg0edKK3oDYZZG+u6L0yTGH+DRtzgr6M+O4fPAoGAdXAPc/zM7PY1uLj3UtRQ\nHjhnN8MlmWisG5Y6GJ97YKfcFM3MYLHdobkJwyvddHOSSL1M41juNr7if64BiVoP\nYRaM/qVBhOAFAwtmA4kUAyopAfyv1KrCFN/QjvmWGyxHTMz6UBqZWWzu5BIyWFnF\nofx+s4e3qbIfxjyUScg9Cfw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soumyadev-gemini-app-service-a@flash-direction-425303-g0.iam.gserviceaccount.com",
+  "client_id": "111671982781272853964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soumyadev-gemini-app-service-a%40flash-direction-425303-g0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
